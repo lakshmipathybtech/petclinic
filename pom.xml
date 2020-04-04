@@ -45,7 +45,7 @@
         <jodatime-jsptags.version>1.1.1</jodatime-jsptags.version>
         <jadira-usertype-core.version>3.2.0.GA</jadira-usertype-core.version>
 
-        <!-- Others ok -->
+        <!-- Others ok ok-->
         <mysql-driver.version>5.1.36</mysql-driver.version>
 
         <!-- Web dependencies -->
